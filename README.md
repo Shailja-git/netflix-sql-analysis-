@@ -21,7 +21,7 @@ The goal was to analyze Netflix’s content library to answer following question
 the description field. Label content containing these keywords as 'Bad' and all other content as 'Good'.
 Count how many items fall into each category.
 
-##  Tools & Technologies
+##  Tools & data
 
 - Microsoft SQL Server Management Studio (SSMS)
 - SQL (CTEs, Window Functions, Aggregations, CASE, GROUP BY, etc.)
